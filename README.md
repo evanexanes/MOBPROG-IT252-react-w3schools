@@ -9,6 +9,10 @@
 ![Status](https://img.shields.io/badge/Status-in%20progress-C8801E)
 [![License: MIT](https://img.shields.io/badge/License-MIT-2d4a7c.svg)](LICENSE)
 
+<img src="docs/screenshot.webp" alt="The React exercise page reading Hello MOBPROG IT252" width="760">
+
+<sub>The first exercise, built with Vite.</sub>
+
 </div>
 
 ## About
