@@ -15,6 +15,10 @@
 
 </div>
 
+## What this shows
+- Early coursework: a React project set up with Vite for the W3Schools tutorial, one folder per tutorial section.
+- The exercise table is still empty and says so, because exercises are added as they are finished.
+
 ## About
 Each section of the [W3Schools React tutorial](https://www.w3schools.com/react/) gets its own folder in this repository. Exercises are added as I finish them, so the table below is the honest state of the work.
 
@@ -41,4 +45,4 @@ npm start
 Released under the [MIT License](LICENSE).
 
 ## Author
-**Evan Prens P. Exanes** · [GitHub](https://github.com/evanexanes) · [Portfolio](https://evanexanes.github.io/)
+**Evan Prens P. Exanes** · [GitHub](https://github.com/evanexanes) · [Portfolio](https://evanexanes.github.io/) · [Contact](https://evanexanes.github.io/07-contact.html)
