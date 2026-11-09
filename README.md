@@ -1,6 +1,6 @@
 # MOBPROG-IT252-react-w3schools
 
-React exercises from the [W3Schools React tutorial](https://www.w3schools.com/react/), done for **MOBPROG — Mobile Programming** (IT252) at Asia Pacific College.
+React exercises from the [W3Schools React tutorial](https://www.w3schools.com/react/), done for **MOBPROG: Mobile Programming** (IT252) at Asia Pacific College.
 
 **Author:** Evan Prens P. Exanes
 
@@ -13,6 +13,7 @@ Each tutorial section gets its own folder. Exercises are added as they are compl
 | *(none yet)* | | |
 
 ## Running an exercise
+You need [Node.js](https://nodejs.org/) with npm installed.
 
 ```bash
 cd <folder>
