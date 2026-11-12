@@ -10,6 +10,7 @@ Date           Description                      Programmer name
 11/05/2026     Initial Implementation           EPPE
 11/09/2026     Added header and comments        EPPE
 11/12/2026     Updated greeting and tagline     EPPE
+11/12/2026     Added and fixed holiday line     EPPE
 ======================================================================
 */
 
@@ -19,7 +20,7 @@ function App() {
     <div className="App">
       <h1>Hello MOBPROG-IT252 World!</h1>
       <h2>Happy 2026 SoCITFest!</h2>
-      <h2>Have a good long weekend and holida!</h2>
+      <h2>Have a good long weekend and holiday!</h2>
       <h3>Evan Exanes</h3>
     </div>
   );
